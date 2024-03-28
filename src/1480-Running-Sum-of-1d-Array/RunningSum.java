@@ -13,8 +13,8 @@ public class RunningSum {
 /**
  * Calculates the running sum of an integer array.
  * 
- * @param An integer array nums and an integer k.
- * @return The length of the longest good subarray of nums.
+ * @param An array of nums.
+ * @return The running sum of nums.
  */
 class Solution {
     public int[] runningSum(int[] nums) {
