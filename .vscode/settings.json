@@ -1,7 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "src/1480-Running-Sum-of-1d-Array",
-        "src/2958. Length of Longest Subarray With at Most K Frequency"
+        "src"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
